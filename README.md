@@ -1,7 +1,3 @@
-Here is a **clean, professional, fully rewritten `README.md`** based **exactly on your content**, but improved for **clarity, judging, structure, and completeness**.
-Nothing important is removed — wording is refined, flow is improved, and it reads like a **final hackathon submission**.
-
-You can **copy–paste this directly**.
 
 ---
 
